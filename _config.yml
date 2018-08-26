@@ -8,7 +8,7 @@ highlighter: rouge
 navigation:
   - url: "/blog/"
     title: Blog
-  - url: "/Chinese/"
-    title: 博客
+  - url: "/Teaching/"
+    title: Teaching
   - title: Github
     url: "http://github.com/panlanfeng"
