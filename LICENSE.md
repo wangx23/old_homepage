@@ -1,4 +1,4 @@
-Modified by Lanfeng Pan.
+Modified by Lanfeng Pan, Xin Wang.
 
 Except where otherwise specified (e.g. in the footer of specific pages),
 the content of the [julialang.org] website is licensed under the MIT License.

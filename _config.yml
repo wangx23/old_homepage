@@ -1,7 +1,7 @@
-name: Lanfeng Pan's Website
-description: Thoughts about statistics
+name: Xin Wang's Website
+description: My page
 permalink: /:categories/:year/:month/:title/
-url: http://panlanfeng.github.io
+url: http://purplewish.github.io
 markdown: kramdown
 highlighter: rouge
 
@@ -11,4 +11,4 @@ navigation:
   - url: "/Teaching/"
     title: Teaching
   - title: Github
-    url: "http://github.com/panlanfeng"
+    url: "http://github.com/purplewish"
