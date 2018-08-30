@@ -6,10 +6,10 @@ markdown: kramdown
 highlighter: rouge
 
 navigation:
+  - url: "/Research/"
+    title: Research
   - url: "/blog/"
     title: Blog
-  - url: "/Teaching/"
-    title: Teaching
   - url: "/Chinese/"
     title: 我
   - title: Github
