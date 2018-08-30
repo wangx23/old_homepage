@@ -29,14 +29,6 @@ Spatial data analysis, Bayesian Statistics, Survey sampling, Clustering
 
 * Assistant Professor, Department of Statistics, Miami University, 2018
 
-## Presentation
-
-
-
-
-
-
-## Software Packages
 
 <br/><br/>
 
