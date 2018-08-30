@@ -7,12 +7,14 @@ title:  Xin Wang
   <span class="subtitle">PhD in Statistics</span>
 </p>
 
-
+Finally, I graduated this April from Iowa State University.
 
 <!-- <iframe src="http://lanfeng.me/about/LanfengPanCV.pdf" style="width:680px; height:1800px;" frameborder="0"></iframe>
 -->
 
 ## Research Interests
+
+Spatial data analysis, Bayesian Statistics, Survey sampling, Clustering
 
 
 ## Education

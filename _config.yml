@@ -10,5 +10,7 @@ navigation:
     title: Blog
   - url: "/Teaching/"
     title: Teaching
+  - url: "/Chinese/"
+    title: 我
   - title: Github
     url: "http://github.com/purplewish"
