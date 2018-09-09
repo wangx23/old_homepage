@@ -7,7 +7,7 @@ title:  Xin Wang
   <span class="subtitle">PhD in Statistics</span>
 </p>
 
-Finally, I graduated this April from Iowa State University.
+Finally, I graduated this April from Iowa State University. 
 
 <!-- <iframe src="http://lanfeng.me/about/LanfengPanCV.pdf" style="width:680px; height:1800px;" frameborder="0"></iframe>
 -->
@@ -22,6 +22,20 @@ Spatial data analysis, Bayesian Statistics, Survey sampling, Clustering
 * Ph.D. in Statistics, Iowa State University, 2013 -- 2018.
 * Master in Statistics, Renmin University of China, 2011 -- 2013.
 * Bachelor in Statistics, Renmin University of China, 2007 -- 2011.
+
+## Publications
+
+* __Wang, X.__ and Roy, V. (2018). Analysis of the Po ́lya-Gamma block Gibbs sampler for Bayesian
+logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
+
+* __Wang, X.__, Roy, V. and Zhu, Z. (2018). A new algorithm to estimate monotone nonparametric link functions and a comparison with parametric approach. _Statistics and Computing_, 28:1083- 1094.
+
+* __Wang, X.__, Berg, E., Zhu, Z., Sun, D. and Demuth, G. (2018+). Small area estimation of proportions with constraint for National Resources Inventory survey. _Journal of Agricultural, Biological, and Environmental Statistics_, to appear.
+
+## Submitted
+__Wang, X.__ and Roy, V., Convergence analysis of block Gibbs samplers for Bayesian probit linear mixed models, Revision invited, arXiv:1706.01846.
+
+__Wang,X.__ and Roy,V.,Convergence analysis of Polya-Gamma block Gibbs sampler for Bayesian logistic regression under improper priors, Revision invited, arxiv.org:1802.06248.
 
 
 
