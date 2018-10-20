@@ -7,7 +7,7 @@ title:  Xin Wang
   <span class="subtitle">PhD in Statistics</span>
 </p>
 
-Finally, I graduated this April from Iowa State University. 
+Finally, I graduated this April from Iowa State University.
 
 <!-- <iframe src="http://lanfeng.me/about/LanfengPanCV.pdf" style="width:680px; height:1800px;" frameborder="0"></iframe>
 -->
@@ -32,12 +32,14 @@ logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
 
 * __Wang, X.__, Berg, E., Zhu, Z., Sun, D. and Demuth, G. (2018+). Small area estimation of proportions with constraint for National Resources Inventory survey. _Journal of Agricultural, Biological, and Environmental Statistics_, to appear.
 
+* __Wang,X.__ and Roy,V.,Convergence analysis of Polya-Gamma block Gibbs sampler for Bayesian logistic regression under improper priors. _Electronic Journal of Statistics_, __12__(2): 3295-3311.
+
+
 ## Submitted
 __Wang, X.__ and Roy, V., Convergence analysis of block Gibbs samplers for Bayesian probit linear mixed models, Revision invited, arXiv:1706.01846.
 
-__Wang,X.__ and Roy,V.,Convergence analysis of Polya-Gamma block Gibbs sampler for Bayesian logistic regression under improper priors, Revision invited, arxiv.org:1802.06248.
-
-
+## In preparation
+* Wang, X., Zhu, Z. and Zhang, H. H. , Estimating subgroups for spatial areal data with re- peated measures, To be submitted.
 
 ## Work experience
 
