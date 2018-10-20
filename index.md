@@ -36,7 +36,7 @@ logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
 
 
 ## Submitted
-__Wang, X.__ and Roy, V., Convergence analysis of block Gibbs samplers for Bayesian probit linear mixed models, Revision invited, arXiv:1706.01846.
+* __Wang, X.__ and Roy, V., Convergence analysis of block Gibbs samplers for Bayesian probit linear mixed models, Revision invited, arXiv:1706.01846.
 
 ## In preparation
 * Wang, X., Zhu, Z. and Zhang, H. H. , Estimating subgroups for spatial areal data with re- peated measures, To be submitted.
