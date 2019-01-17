@@ -1,7 +1,7 @@
 name: Xin Wang's Website
 description: My page
 permalink: /:categories/:year/:month/:title/
-url: http://purplewish.github.io
+url: http://wangxin23.github.io
 markdown: kramdown
 highlighter: rouge
 
