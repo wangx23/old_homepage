@@ -34,12 +34,14 @@ logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
 
 * __Wang,X.__ and Roy,V.,Convergence analysis of Polya-Gamma block Gibbs sampler for Bayesian logistic regression under improper priors. _Electronic Journal of Statistics_, __12__(2): 3295-3311.
 
+* __Wang, X.__ and Roy, V., Convergence analysis of the block Gibbs sampler for Bayesian probit linear mixed models with improper priors. _Electronic Journal of Statistics_, _12_(2): 4412-4439.
 
 ## Submitted
-* __Wang, X.__ and Roy, V., Convergence analysis of block Gibbs samplers for Bayesian probit linear mixed models, Revision invited, arXiv:1706.01846.
+
+* __Wang, X.__ and Zhu, Z., Small area estimation with subgroups analysis, _Submitted to Journal Statistical Theory and Related Fields in December 2018_.
 
 ## In preparation
-* Wang, X., Zhu, Z. and Zhang, H. H. , Estimating subgroups for spatial areal data with re- peated measures, To be submitted.
+* Wang, X., Zhu, Z. and Zhang, H. H. , Estimating subgroups for spatial areal data with repeated measures, To be submitted.
 
 ## Work experience
 
