@@ -14,7 +14,8 @@ Finally, I graduated this April from Iowa State University.
 
 ## Research Interests
 
-Spatial data analysis, Bayesian Statistics, Survey sampling, Clustering
+Spatial data analysis, Bayesian Statistics, Clustering,
+Convergence rates of MCMC algorithms, Small area estimation
 
 
 ## Education
@@ -38,11 +39,13 @@ logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
 
 ## Submitted
 
-* __Wang, X.__ and Zhu, Z., Small area estimation with subgroups analysis, _Submitted to Journal Statistical Theory and Related Fields in December 2018_.
-* Tatjana, M. and __Wang, X.__, Identifying Subgroups of the Obese Population in the United States.
+* __Wang, X.__ and Zhu, Z., Small area estimation with subgroups analysis, _Submitted to Statistical Theory and Related Fields in December 2018_.
+* Tatjana, M. and __Wang, X.__, Identifying Subgroups of the Obese Population in the United States. 
 
 ## In preparation
 * Wang, X., Zhu, Z. and Zhang, H. H. , Estimating subgroups for spatial areal data with repeated measures, To be submitted.
+
+* Wang, X., Clustering of longitudinal curves via a penalized method.
 
 ## Work experience
 
