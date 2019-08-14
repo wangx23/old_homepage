@@ -40,7 +40,7 @@
 <script type="text/javascript">
   (function() {
     var links = document.getElementsByTagName('a');
-    var regex = new RegExp('^http://'+window.location.hostname);
+    var regex = new RegExp('^https://'+window.location.hostname);
     for (var i=0; i < links.length; i++)
        if (!links[i].href.match(regex))
            links[i].setAttribute('target','_blank');
