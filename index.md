@@ -26,6 +26,8 @@ Convergence rates of MCMC algorithms, Small area estimation
 
 ## Publications
 
+* __Wang, X.__ and Zhu, Z. (2019), Small area estimation with subgroups analysis. _Statistical Theory and Related Fields_, 3 (2): 129-135.
+
 * __Wang, X.__ and Roy, V. (2018). Analysis of the Po ́lya-Gamma block Gibbs sampler for Bayesian
 logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
 
@@ -39,13 +41,15 @@ logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
 
 ## Submitted
 
-* __Wang, X.__ and Zhu, Z., Small area estimation with subgroups analysis, _Submitted to Statistical Theory and Related Fields in December 2018_.
-* Tatjana, M. and __Wang, X.__, Identifying Subgroups of the Obese Population in the United States. 
+* Tatjana, M and __Wang, X.__, Identifying Subgroups of the Obese Population in the United States, _Biometrical Journal_, revised and submitted.
 
-## In preparation
-* Wang, X., Zhu, Z. and Zhang, H. H. , Estimating subgroups for spatial areal data with repeated measures, To be submitted.
+* __Wang, X.__, Zhu, Z. and Zhang, H. H., Spatial automatic subgroup analysis for areal data with
+repeated measures.
 
-* Wang, X., Clustering of longitudinal curves via a penalized method.
+* __Wang, X.__, Clustering of longitudinal curves via a penalized method and EM algorithm
+
+
+
 
 ## Work experience
 
