@@ -26,7 +26,7 @@ Convergence rates of MCMC algorithms, Small area estimation
 
 ## Publications
 
-* Tatjana, M and __Wang, X.__, Identifying Subgroups of the Obese Population in the United States, _Biometrical Journal_, Accepted.
+* Tatjana, M and __Wang, X.__ (2020), Identifying Subgroups of the Obese Population in the United States, _Biometrical Journal_, Accepted.
 
 * __Wang, X.__ and Zhu, Z. (2019), Small area estimation with subgroups analysis. _Statistical Theory and Related Fields_, 3 (2): 129-135.
 
@@ -41,7 +41,7 @@ logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
 
 * __Wang, X.__ and Roy, V., Convergence analysis of the block Gibbs sampler for Bayesian probit linear mixed models with improper priors. _Electronic Journal of Statistics_, _12_(2): 4412-4439.
 
- * Shield, A, __Wang, X.__, Bonec, D., Narayananc, S. and Grossmand, R. (2020). Conversational correlates of rapid social judgments of children and adolescents with and without ASD. {\it Clinical Linguistics \& Phonetics}. Accepted.
+ * Shield, A, __Wang, X.__, Bonec, D., Narayananc, S. and Grossmand, R. (2020). Conversational correlates of rapid social judgments of children and adolescents with and without ASD. _Clinical Linguistics & Phonetics_. Accepted.
 
 
 
