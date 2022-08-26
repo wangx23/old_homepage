@@ -7,7 +7,6 @@ title:  Xin Wang
   <span class="subtitle">PhD in Statistics</span>
 </p>
 
-Finally, I graduated this April from Iowa State University.
 
 <!-- <iframe src="http://lanfeng.me/about/LanfengPanCV.pdf" style="width:680px; height:1800px;" frameborder="0"></iframe>
 -->
@@ -24,9 +23,10 @@ Convergence rates of MCMC algorithms, Small area estimation
 * Master in Statistics, Renmin University of China, 2011 -- 2013.
 * Bachelor in Statistics, Renmin University of China, 2007 -- 2011.
 
+
 ## Publications
 
-* Tatjana, M and __Wang, X.__ (2020), Identifying Subgroups of the Obese Population in the United States, _Biometrical Journal_, Accepted.
+* Tatjana, M and __Wang, X.__ (2021), Identifying Subgroups of the Obese Population in the United States, _Biometrical Journal_,63:168–186. (co-first authorship).
 
 * __Wang, X.__ and Zhu, Z. (2019), Small area estimation with subgroups analysis. _Statistical Theory and Related Fields_, 3 (2): 129-135.
 
@@ -41,16 +41,26 @@ logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
 
 * __Wang, X.__ and Roy, V., Convergence analysis of the block Gibbs sampler for Bayesian probit linear mixed models with improper priors. _Electronic Journal of Statistics_, _12_(2): 4412-4439.
 
- * Shield, A, __Wang, X.__, Bonec, D., Narayananc, S. and Grossmand, R. (2020). Conversational correlates of rapid social judgments of children and adolescents with and without ASD. _Clinical Linguistics & Phonetics_. Accepted.
+ * Shield, A, __Wang, X.__, Bonec, D., Narayananc, S. and Grossmand, R. (2021). Conversational correlates of rapid social judgments of children and adolescents with and without ASD. _Clinical Linguistics & Phonetics_. 35(2): 172-184.
 
 
+## Submitted 
 
+* __Wang, X.__, Zhu, Z. and Zhang, H. H., Spatial Heterogeneity Automatic Detection and Estimation, https://arxiv.org/abs/1906.01853.
+
+* __Wang, X.__, Clustering of longitudinal curves via a penalized method and EM algorithm, https://arxiv.org/abs/1910.11258.
+
+* McDonald, E . and __Wang, X.__. Generalized Regression Estimators with concave penalties and a comparison to lasso type estimators.
+
+* __Wang, X.__, Zhang, X. and Zhu, Z. Clustered coefficient regression models for Poisson process with an application to seasonal warranty claim data.
 
 
 
 ## Work experience
 
-* Assistant Professor, Department of Statistics, Miami University, 2018
+* Assistant Professor, Department of Mathematics and Statistics, San Diego State University, 2022.
+
+* Assistant Professor, Department of Statistics, Miami University, 2018 - 2022.
 
 
 <br/><br/>
