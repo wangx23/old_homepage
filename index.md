@@ -2,7 +2,6 @@
 layout: default
 title:  Xin Wang
 ---
-<h1>Xin Wang</h1>
 <p>
   <span class="subtitle">PhD in Statistics</span>
 </p>
