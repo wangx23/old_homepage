@@ -26,7 +26,10 @@ Convergence rates of MCMC algorithms, Small area estimation
 
 ## Publications
 
-* Tatjana, M and __Wang, X.__ (2021), Identifying Subgroups of the Obese Population in the United States, _Biometrical Journal_,63:168–186. (co-first authorship).
+* __Wang, X.__, Zhu, Z. and Zhang, H. H., Spatial Heterogeneity Automatic Detection and Estimation
+(2022+), _Computational Statistics and Data Analysis_.
+
+* Miljkovic, T and __Wang, X.__ (2021), Identifying Subgroups of the Obese Population in the United States, _Biometrical Journal_,63:168–186. (co-first authorship).
 
 * __Wang, X.__ and Zhu, Z. (2019), Small area estimation with subgroups analysis. _Statistical Theory and Related Fields_, 3 (2): 129-135.
 
@@ -46,7 +49,6 @@ logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
 
 ## Submitted 
 
-* __Wang, X.__, Zhu, Z. and Zhang, H. H., Spatial Heterogeneity Automatic Detection and Estimation, https://arxiv.org/abs/1906.01853.
 
 * __Wang, X.__, Clustering of longitudinal curves via a penalized method and EM algorithm, https://arxiv.org/abs/1910.11258.
 
@@ -54,7 +56,7 @@ logistic linear mixed models. _Statistics & Probability Letters_ 137: 251-256.
 
 * __Wang, X.__, Zhang, X. and Zhu, Z. Clustered coefficient regression models for Poisson process with an application to seasonal warranty claim data.
 
-
+* __Wang, X.__, and Zhang, J.. A clustered variance model with an application in aquatic toxicity assessment.
 
 ## Work experience
 
